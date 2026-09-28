@@ -1,0 +1,10 @@
+# Python cache & environments
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Gradio / OS temp files
+.gradio/
+.DS_Store
+Thumbs.db
